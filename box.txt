@@ -548,6 +548,7 @@ CETV教育综合,http://mobilelive-ds.ysp.cctv.cn/ysp/2022823801.m3u8$央视频
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
 
+美亚电影台HD,mitv://135.148.104.228:19806/6c34f21c2c634e5db469a2971a6e4ed0
 
 🇭🇰港澳频道,#genre#
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw # http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8 # http://www.biaowen.net:4022/rtp/239.254.201.2:5226$河北电信组播 # http://wouu.net:9977/udp/239.93.0.162:2192$四川电信组播

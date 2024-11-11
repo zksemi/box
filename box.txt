@@ -16,7 +16,6 @@
 //斗鱼1线：http://zzy789.xyz/douyu1.php?id= 斗鱼2线：http://159.75.85.63:35455/douyu/ 
 
 🥭芒果独播,#genre#
-北京IPTV淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2
 电视剧1,http://zby.xjqxz.top/dsdsj1/live.m3u8
 电视剧2,http://zby.xjqxz.top/dsdsj2/live.m3u8
 电视剧3,http://zby.xjqxz.top/dsdsj3/live.m3u8
@@ -231,7 +230,7 @@ CCTV-16 奥林匹克,http://gslbserv.itv.cmvideo.cn/1000000006000233002/1.m3u8?c
 CCTV-17 农业农村,http://gslbserv.itv.cmvideo.cn/1000000005000265015/1.m3u8?channel-id=ystenlive&Contentid=1000000005000265015&livemode=1&stbId=3$ITV易视腾IPV6
 
 🇨🇳卫视频道,#genre#
-重温经典,https://aktv.top/myaktv/LIVE/e856970ee4ffdc8ff40071b7f018aaac.m3u8 # http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
+重温经典,http://120.76.248.139/live/bfgd/4200000635.m3u8
 
 //黑龙江移动IPV4
 北京卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8$黑龙江移动IPV4
@@ -544,8 +543,6 @@ CCTV-17 农业农村,http://gslbserv.itv.cmvideo.cn/1000000005000265015/1.m3u8?c
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
 
-美亚电影台HD,mitv://135.148.104.228:19806/6c34f21c2c634e5db469a2971a6e4ed0
-
 🇭🇰港澳频道,#genre#
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw # http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8 # http://www.biaowen.net:4022/rtp/239.254.201.2:5226$河北电信组播 # http://wouu.net:9977/udp/239.93.0.162:2192$四川电信组播
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx # http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8 # http://www.biaowen.net:4022/rtp/239.254.201.3:5227$河北电信组播 # http://wouu.net:9977/udp/239.93.0.118:2191$四川电信组播
@@ -586,15 +583,6 @@ NOW星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=631170156112507&edge
 北京卡酷少儿,http://coolcat.synology.me:4022/rtp/239.3.1.189:8000
 北京体育休闲,http://coolcat.synology.me:4022/rtp/239.3.1.243:8000
 北京国际频道,http://coolcat.synology.me:4022/rtp/239.3.1.235:8000
-北京冬奥纪实,http://www.biaowen.net:4022/rtp/239.254.200.188:6311$河北电信组播
-
-北京文艺,http://video.qd.sdu.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/index.m3u8
-北京影视,http://video.qd.sdu.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/index.m3u8
-北京生活,http://video.qd.sdu.edu.cn/liverespath/89ed1379f4c4cc9a436aacabc882365f512a7595/index.m3u8
-北京纪实科教,http://video.qd.sdu.edu.cn/liverespath/72e61aa5ca26beb9dd17a950d2a8c6171a5cd998/index.m3u8
-北京财经,http://video.qd.sdu.edu.cn/liverespath/da4b2d170d47e48cfd4dcd6db27b7088a876aa30/index.m3u8
-北京体育休闲,http://video.qd.sdu.edu.cn/liverespath/85e67548eb4b2a78b704e349eb27a9e787b63138/index.m3u8
-北京新闻,http://video.qd.sdu.edu.cn/liverespath/e0f83dca54734aea4920c0125111c84859d2a012/index.m3u8
 
 北京淘电影,http://coolcat.synology.me:4022/rtp/239.3.1.250:8001
 北京淘剧场,http://coolcat.synology.me:4022/rtp/239.3.1.95:8001
@@ -625,19 +613,23 @@ IPTV喜剧影院,http://coolcat.synology.me:4022/rtp/239.3.1.91:4120
 
 🎬电影频道,#genre#
 1905国内电影,https://hlslive.1905.com/live/LIVENCOI8M4RGOOJ9/index.m3u8?tm=1731362702&sign=877e4ea2ff61ca87afc1d071f54e505e
-CHC影迷电影,http://www.hiliu.myds.me:8088/rtp/239.69.1.241:11088$湖北电信组播 # http://ik6.iptv8.net:8888/rtp/225.1.4.207:1260$河南联通组播 # http://ha.xushining.com:50000/udp/225.1.1.214:5002$天津联通组播 # http://enlen.vip:4022/udp/239.200.201.34:8148$云南电信组播
-CHC动作电影,http://www.hiliu.myds.me:8088/rtp/239.69.1.242:11094$湖北电信组播 # http://ik6.iptv8.net:8888/rtp/225.1.4.208:1261$河南联通组播 # http://ha.xushining.com:50000/udp/225.1.1.215:5002$天津联通组播 # http://enlen.vip:4022/udp/239.200.201.31:8144$云南电信组播
-CHC家庭影院,http://www.hiliu.myds.me:8088/rtp/239.69.1.243:11100$湖北电信组播 # http://ik6.iptv8.net:8888/rtp/225.1.4.209:1262$河南联通组播 # http://ha.xushining.com:50000/udp/225.1.1.213:5002$天津联通组播 # http://enlen.vip:4022/udp/239.200.201.30:8140$云南电信组播
+CHC影迷电影,http://58.19.244.92:1111/tsfile/live/1020_1.m3u8 # http://www.hiliu.myds.me:8088/rtp/239.69.1.241:11088$湖北电信组播 # http://ik6.iptv8.net:8888/rtp/225.1.4.207:1260$河南联通组播 # http://ha.xushining.com:50000/udp/225.1.1.214:5002$天津联通组播 # http://enlen.vip:4022/udp/239.200.201.34:8148$云南电信组播
+CHC动作电影,http://58.19.244.92:1111/tsfile/live/1019_1.m3u8 # http://www.hiliu.myds.me:8088/rtp/239.69.1.242:11094$湖北电信组播 # http://ik6.iptv8.net:8888/rtp/225.1.4.208:1261$河南联通组播 # http://ha.xushining.com:50000/udp/225.1.1.215:5002$天津联通组播 # http://enlen.vip:4022/udp/239.200.201.31:8144$云南电信组播
+CHC家庭影院,http://58.19.244.92:1111/tsfile/live/1018_1.m3u8 # http://www.hiliu.myds.me:8088/rtp/239.69.1.243:11100$湖北电信组播 # http://ik6.iptv8.net:8888/rtp/225.1.4.209:1262$河南联通组播 # http://ha.xushining.com:50000/udp/225.1.1.213:5002$天津联通组播 # http://enlen.vip:4022/udp/239.200.201.30:8140$云南电信组播
 CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
-thrill恐怖电影,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 
-北京IPTV4K超清,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?accountinfo=%7E%7EV2.0%7Ee2qS8h6u-xp3gd50vNr1sw%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2 # http://coolcat.synology.me:4022/rtp/239.3.1.249:8001$北京联通组播
-北京IPTV淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND&GuardEncType=2 # http://coolcat.synology.me:4022/rtp/239.3.1.250:8001$北京联通组播
+北京IPTV⁺4K超清,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?accountinfo=%7E%7EV2.0%7Ee2qS8h6u-xp3gd50vNr1sw%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2$北京移动 # http://coolcat.synology.me:4022/rtp/239.3.1.249:8001$北京联通组播
+北京IPTV⁺淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND&GuardEncType=2$北京移动 # http://coolcat.synology.me:4022/rtp/239.3.1.250:8001$北京联通组播
+北京IPTV⁺淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2
+
+thrill恐怖电影,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 美亚电影(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-精彩影视,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=wasusyt&Contentid=6000000006000320630&livemode=1&stbId=3
+PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+NOW爆谷台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
+NOW星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
-动作电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
 龙华电影,http://37.27.111.214:8080/live/19/hls.m3u8
 
 🦋秀美家乡,#genre#

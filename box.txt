@@ -15,30 +15,7 @@
 //港澳频道token：631170156112507
 //斗鱼1线：http://zzy789.xyz/douyu1.php?id= 斗鱼2线：http://159.75.85.63:35455/douyu/ 
 
-🥭芒果独播,#genre#
-电视剧1,http://zby.xjqxz.top/dsdsj1/live.m3u8
-电视剧2,http://zby.xjqxz.top/dsdsj2/live.m3u8
-电视剧3,http://zby.xjqxz.top/dsdsj3/live.m3u8
-电视剧4,http://zby.xjqxz.top/gzdsj1/live.m3u8
-电视剧5,http://zby.xjqxz.top/gzdsj2/live.m3u8
-电视剧6,http://zby.xjqxz.top/gzwxj/live.m3u8
-电视剧7,http://zby.xjqxz.top/gzdsj3/live.m3u8
-电视剧8,http://zby.xjqxz.top/gzdsj4/live.m3u8
-电视剧9,http://zby.xjqxz.top/gzdsj5/live.m3u8
-电视剧10,http://zby.xjqxz.top/kzzypd/live.m3u8
-电视剧11,http://zby.xjqxz.top/dzzypd/live.m3u8
-电视剧12,http://zby.xjqxz.top/dzzypd2/live.m3u8
-电视剧13,http://zby.xjqxz.top/dzzypd3/live.m3u8
-
-电视剧14,http://37.27.111.214:8080/live/108/hls.m3u8
-电视剧15,http://37.27.111.214:8080/live/109/hls.m3u8
-电视剧16,http://37.27.111.214:8080/live/111/hls.m3u8
-动漫1台,http://37.27.111.214:8080/live/105/hls.m3u8
-动漫2台,http://37.27.111.214:8080/live/106/hls.m3u8
-
 🇨🇳央视频道,#genre#
-CCTV4K,http://op.sev7.net:4022/udp/239.254.200.122:7266$河北电信#http://vapi.91kds.cc/live1/udp.m3u8?ip=guangxi-dx&id=239.81.1.78:4056&apiKey=73c963d13814ce7d0e4743c5e7d033cc$广西电信#http://vapi.91kds.cc/live1/udp.m3u8?ip=guangdong-dx&id=239.77.0.174:5146&apiKey=73c963d13814ce7d0e4743c5e7d033cc$广东电信#http://enlen.vip:4022/udp/239.200.200.202:8784$云南电信#http://www.furymax.top:85/udp/239.69.1.111:10304$湖北电信#http://dev.wugeng.cc:8686/udp/239.76.246.214:1234$湖南电信
-
 //黑龙江移动IPV4
 CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$黑龙江移动IPV4
 CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$黑龙江移动IPV4
@@ -625,8 +602,9 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 thrill恐怖电影,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
 美亚电影(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-NOW爆谷台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-NOW星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
+
+NOW爆谷台,https://live.hkdvb.com/hls/live/133.m3u8?token=631170156112507&edge=live.tvfree.sbs
+NOW星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=631170156112507&edge=live.tvfree.sbs
 
 黑莓电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 超级电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8

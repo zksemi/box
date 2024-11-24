@@ -1,4 +1,4 @@
-//直播源本地路径：clan://localhost/ITVBox/tv/tvonline.txt
+///直播源本地路径：clan://localhost/ITVBox/tv/tvonline.txt
 //直播源在线路径：http://itv.22m.top/ITVBox/tv/tvonline.txt
 //diyp专用版epg：http://diyp1.112114.xyz/
 
@@ -754,6 +754,7 @@ NOW星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=631170156121436&edge
 🐟斗鱼电影,#genre#
 🎬豆瓣高分电影,http://zzy789.xyz/douyu1.php?id=8770422 # http://159.75.85.63:35455/douyu/8770422
 🎬欧美大片,http://zzy789.xyz/douyu1.php?id=2793084 # http://159.75.85.63:35455/douyu/2793084
+🎦邵氏影院,http://zzy789.xyz/douyu1.php?id=4246519 # http://159.75.85.63:35455/douyu/4246519
 🔴神乐华语①厅,http://zzy789.xyz/douyu1.php?id=85894 # http://159.75.85.63:35455/douyu/85894
 🔴神乐华语②厅,http://zzy789.xyz/douyu1.php?id=122402 # http://159.75.85.63:35455/douyu/122402
 🔴神乐粤语厅,http://zzy789.xyz/douyu1.php?id=6566671 # http://159.75.85.63:35455/douyu/6566671
@@ -784,7 +785,7 @@ NOW星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=631170156121436&edge
 🔶港剧天地①台,http://zzy789.xyz/douyu1.php?id=4290711 # http://159.75.85.63:35455/douyu/4290711
 🔶港剧天地②台,http://zzy789.xyz/douyu1.php?id=5522351 # http://159.75.85.63:35455/douyu/5522351
 🔶港剧天地③台,http://zzy789.xyz/douyu1.php?id=5261342 # http://159.75.85.63:35455/douyu/5261342
-🔷怀旧经典港剧,http://zzy789.xyz/douyu1.php?id=5061550 # http://159.75.85.63:35455/douyu/5061550
+🔷怀旧经典港剧,http://zzy789.xyz/douyu1.php?id=7119207 # http://159.75.85.63:35455/douyu/7119207
 🔷老版三国演义,http://zzy789.xyz/douyu1.php?id=7459925 # http://159.75.85.63:35455/douyu/7459925
 🔷神探狄仁杰,http://zzy789.xyz/douyu1.php?id=6027991 # http://159.75.85.63:35455/douyu/6027991
 🔷神话,http://zzy789.xyz/douyu1.php?id=5448413 # http://159.75.85.63:35455/douyu/5448413

@@ -730,15 +730,14 @@ IPTV喜剧影院,http://coolcat.synology.me:4022/rtp/239.3.1.91:4120
 CHC影迷电影,http://58.19.244.92:1111/tsfile/live/1020_1.m3u8 # http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=$山东移动IPV6
 CHC动作电影,http://58.19.244.92:1111/tsfile/live/1019_1.m3u8 # http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=$山东移动IPV6
 CHC家庭影院,http://58.19.244.92:1111/tsfile/live/1018_1.m3u8 # http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=$山东移动IPV6
-CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 北京IPTV4K超清,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?accountinfo=%7E%7EV2.0%7Ee2qS8h6u-xp3gd50vNr1sw%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2$北京移动 # http://coolcat.synology.me:4022/rtp/239.3.1.249:8001$北京联通组播
 北京IPTV淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND&GuardEncType=2$北京移动 # http://coolcat.synology.me:4022/rtp/239.3.1.250:8001$北京联通组播
 北京IPTV淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2
 
-thrill恐怖电影,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8
-美亚电影(HK),http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
+thrill恐怖电影,http://aktv.top/AKTV/live/aktv3/thrill/AKTV.m3u8$AKTV
+美亚电影(HK),https://live.hkdvb.com/hls/live/201.m3u8?token=631170156121436$HKDVD # http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8$AKTV
+PopC,https://live.hkdvb.com/hls/live/206.m3u8?token=631170156121436$HKDVD # http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8$AKTV
 
 NOW爆谷台,https://live.hkdvb.com/hls/live/133.m3u8?token=631170156121436&edge=live.tvfree.sbs
 NOW星影台,https://live.hkdvb.com/hls/live/138.m3u8?token=631170156121436&edge=live.tvfree.sbs
